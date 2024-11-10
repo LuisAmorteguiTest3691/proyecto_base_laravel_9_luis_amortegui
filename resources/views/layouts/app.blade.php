@@ -17,7 +17,7 @@
                     DevsTagram
                 </h1>
                 <nav class="flex gap-2 items-center">
-                    <a href="#" class="font-bold uppercase text-gray-600 text-sm hover:text-black">Login</a>
+                    <a href="/" class="font-bold uppercase text-gray-600 text-sm hover:text-black">Login</a>
                     <a href="{{ route('register') }}" class="font-bold uppercase text-gray-600 text-sm hover:text-black">Crear Cuenta</a>
                 </nav>
             </div>
